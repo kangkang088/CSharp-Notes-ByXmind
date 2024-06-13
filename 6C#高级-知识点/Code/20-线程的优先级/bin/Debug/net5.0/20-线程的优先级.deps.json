@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "20-线程的优先级/1.0.0": {
+        "runtime": {
+          "20-线程的优先级.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "20-线程的优先级/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

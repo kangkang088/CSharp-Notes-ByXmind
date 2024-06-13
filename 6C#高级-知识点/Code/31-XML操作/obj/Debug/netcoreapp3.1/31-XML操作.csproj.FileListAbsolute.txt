@@ -1,0 +1,15 @@
+E:\VS Workspace\第四季-高级篇\31-XML操作\bin\Debug\netcoreapp3.1\Skills.xml
+E:\VS Workspace\第四季-高级篇\31-XML操作\bin\Debug\netcoreapp3.1\31-XML操作.exe
+E:\VS Workspace\第四季-高级篇\31-XML操作\bin\Debug\netcoreapp3.1\31-XML操作.deps.json
+E:\VS Workspace\第四季-高级篇\31-XML操作\bin\Debug\netcoreapp3.1\31-XML操作.runtimeconfig.json
+E:\VS Workspace\第四季-高级篇\31-XML操作\bin\Debug\netcoreapp3.1\31-XML操作.runtimeconfig.dev.json
+E:\VS Workspace\第四季-高级篇\31-XML操作\bin\Debug\netcoreapp3.1\31-XML操作.dll
+E:\VS Workspace\第四季-高级篇\31-XML操作\bin\Debug\netcoreapp3.1\31-XML操作.pdb
+E:\VS Workspace\第四季-高级篇\31-XML操作\obj\Debug\netcoreapp3.1\31-XML操作.GeneratedMSBuildEditorConfig.editorconfig
+E:\VS Workspace\第四季-高级篇\31-XML操作\obj\Debug\netcoreapp3.1\31-XML操作.AssemblyInfoInputs.cache
+E:\VS Workspace\第四季-高级篇\31-XML操作\obj\Debug\netcoreapp3.1\31-XML操作.AssemblyInfo.cs
+E:\VS Workspace\第四季-高级篇\31-XML操作\obj\Debug\netcoreapp3.1\31-XML操作.csproj.CoreCompileInputs.cache
+E:\VS Workspace\第四季-高级篇\31-XML操作\obj\Debug\netcoreapp3.1\31-XML操作.dll
+E:\VS Workspace\第四季-高级篇\31-XML操作\obj\Debug\netcoreapp3.1\31-XML操作.pdb
+E:\VS Workspace\第四季-高级篇\31-XML操作\obj\Debug\netcoreapp3.1\31-XML操作.genruntimeconfig.cache
+E:\VS Workspace\第四季-高级篇\31-XML操作\obj\Debug\netcoreapp3.1\31-XML操作.csproj.AssemblyReference.cache

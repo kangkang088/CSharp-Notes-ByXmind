@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "zgbeySwR7fnhnBY7T65HQ5bW1cwVn5Qde5hsQRqvb5w776vXTF9nM0+sNs++Q8LNK5HDh+WoXkwyX4vFQ12ABA==",
+  "success": true,
+  "projectFilePath": "E:\\VS Workspace\\第四季-高级篇\\07-Action委托\\07-Action委托.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\souke\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512"
+  ],
+  "logs": []
+}

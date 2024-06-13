@@ -1,0 +1,14 @@
+E:\VS Workspace\第四季-高级篇\26-文本读取流和写入流\bin\Debug\netcoreapp3.1\26-文本读取流和写入流.exe
+E:\VS Workspace\第四季-高级篇\26-文本读取流和写入流\bin\Debug\netcoreapp3.1\26-文本读取流和写入流.deps.json
+E:\VS Workspace\第四季-高级篇\26-文本读取流和写入流\bin\Debug\netcoreapp3.1\26-文本读取流和写入流.runtimeconfig.json
+E:\VS Workspace\第四季-高级篇\26-文本读取流和写入流\bin\Debug\netcoreapp3.1\26-文本读取流和写入流.runtimeconfig.dev.json
+E:\VS Workspace\第四季-高级篇\26-文本读取流和写入流\bin\Debug\netcoreapp3.1\26-文本读取流和写入流.dll
+E:\VS Workspace\第四季-高级篇\26-文本读取流和写入流\bin\Debug\netcoreapp3.1\26-文本读取流和写入流.pdb
+E:\VS Workspace\第四季-高级篇\26-文本读取流和写入流\obj\Debug\netcoreapp3.1\26-文本读取流和写入流.GeneratedMSBuildEditorConfig.editorconfig
+E:\VS Workspace\第四季-高级篇\26-文本读取流和写入流\obj\Debug\netcoreapp3.1\26-文本读取流和写入流.AssemblyInfoInputs.cache
+E:\VS Workspace\第四季-高级篇\26-文本读取流和写入流\obj\Debug\netcoreapp3.1\26-文本读取流和写入流.AssemblyInfo.cs
+E:\VS Workspace\第四季-高级篇\26-文本读取流和写入流\obj\Debug\netcoreapp3.1\26-文本读取流和写入流.csproj.CoreCompileInputs.cache
+E:\VS Workspace\第四季-高级篇\26-文本读取流和写入流\obj\Debug\netcoreapp3.1\26-文本读取流和写入流.dll
+E:\VS Workspace\第四季-高级篇\26-文本读取流和写入流\obj\Debug\netcoreapp3.1\26-文本读取流和写入流.pdb
+E:\VS Workspace\第四季-高级篇\26-文本读取流和写入流\obj\Debug\netcoreapp3.1\26-文本读取流和写入流.genruntimeconfig.cache
+E:\VS Workspace\第四季-高级篇\26-文本读取流和写入流\obj\Debug\netcoreapp3.1\26-文本读取流和写入流.csproj.AssemblyReference.cache

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "5FC3dW8Ff43KL5Npv545hN0zVkUa1g58LOEmaqe0WhsaesaQatQ2kF1n7pjGQBUtg8v0zyHpcGFYEHoaNvd2xA==",
+  "success": true,
+  "projectFilePath": "E:\\VS Workspace\\第四季-高级篇\\19-前台线程和后台线程\\19-前台线程和后台线程.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\souke\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512"
+  ],
+  "logs": []
+}

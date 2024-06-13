@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "F1ttK38XRfOM6dq9BIbzgz59ouW8bcC3bZS3t0f1c8AMru6ljfrE/5jzRRli6LawzUDxtR+fSi6sYeNT9JbxsA==",
+  "success": true,
+  "projectFilePath": "E:\\VS Workspace\\第四季-高级篇\\TCP服务器端TcpServer\\27-TCP服务器端TcpServer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\souke\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512"
+  ],
+  "logs": []
+}

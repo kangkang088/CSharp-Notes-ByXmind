@@ -1,0 +1,14 @@
+E:\VS Workspace\第四季-高级篇\28-TCP客户端\bin\Debug\netcoreapp3.1\28-TCP客户端.exe
+E:\VS Workspace\第四季-高级篇\28-TCP客户端\bin\Debug\netcoreapp3.1\28-TCP客户端.deps.json
+E:\VS Workspace\第四季-高级篇\28-TCP客户端\bin\Debug\netcoreapp3.1\28-TCP客户端.runtimeconfig.json
+E:\VS Workspace\第四季-高级篇\28-TCP客户端\bin\Debug\netcoreapp3.1\28-TCP客户端.runtimeconfig.dev.json
+E:\VS Workspace\第四季-高级篇\28-TCP客户端\bin\Debug\netcoreapp3.1\28-TCP客户端.dll
+E:\VS Workspace\第四季-高级篇\28-TCP客户端\bin\Debug\netcoreapp3.1\28-TCP客户端.pdb
+E:\VS Workspace\第四季-高级篇\28-TCP客户端\obj\Debug\netcoreapp3.1\28-TCP客户端.GeneratedMSBuildEditorConfig.editorconfig
+E:\VS Workspace\第四季-高级篇\28-TCP客户端\obj\Debug\netcoreapp3.1\28-TCP客户端.AssemblyInfoInputs.cache
+E:\VS Workspace\第四季-高级篇\28-TCP客户端\obj\Debug\netcoreapp3.1\28-TCP客户端.AssemblyInfo.cs
+E:\VS Workspace\第四季-高级篇\28-TCP客户端\obj\Debug\netcoreapp3.1\28-TCP客户端.csproj.CoreCompileInputs.cache
+E:\VS Workspace\第四季-高级篇\28-TCP客户端\obj\Debug\netcoreapp3.1\28-TCP客户端.dll
+E:\VS Workspace\第四季-高级篇\28-TCP客户端\obj\Debug\netcoreapp3.1\28-TCP客户端.pdb
+E:\VS Workspace\第四季-高级篇\28-TCP客户端\obj\Debug\netcoreapp3.1\28-TCP客户端.genruntimeconfig.cache
+E:\VS Workspace\第四季-高级篇\28-TCP客户端\obj\Debug\netcoreapp3.1\28-TCP客户端.csproj.AssemblyReference.cache

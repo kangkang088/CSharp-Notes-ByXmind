@@ -1,0 +1,10 @@
+﻿{
+	"name":"扁鹊",
+	"maxHP":2000,
+	"type":"法师",
+	"skillList":[
+		{ "id":2,"name":"痴情咒","damage":200 },
+		{ "id":3,"name":"决绝","damage":255 },
+		{ "id":4,"name":"死亡凝视","damage":300 }
+	]
+}

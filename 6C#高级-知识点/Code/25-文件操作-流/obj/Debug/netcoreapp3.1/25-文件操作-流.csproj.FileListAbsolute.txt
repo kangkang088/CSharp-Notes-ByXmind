@@ -1,0 +1,14 @@
+E:\VS Workspace\第四季-高级篇\25-文件操作-流\bin\Debug\netcoreapp3.1\25-文件操作-流.exe
+E:\VS Workspace\第四季-高级篇\25-文件操作-流\bin\Debug\netcoreapp3.1\25-文件操作-流.deps.json
+E:\VS Workspace\第四季-高级篇\25-文件操作-流\bin\Debug\netcoreapp3.1\25-文件操作-流.runtimeconfig.json
+E:\VS Workspace\第四季-高级篇\25-文件操作-流\bin\Debug\netcoreapp3.1\25-文件操作-流.runtimeconfig.dev.json
+E:\VS Workspace\第四季-高级篇\25-文件操作-流\bin\Debug\netcoreapp3.1\25-文件操作-流.dll
+E:\VS Workspace\第四季-高级篇\25-文件操作-流\bin\Debug\netcoreapp3.1\25-文件操作-流.pdb
+E:\VS Workspace\第四季-高级篇\25-文件操作-流\obj\Debug\netcoreapp3.1\25-文件操作-流.csproj.AssemblyReference.cache
+E:\VS Workspace\第四季-高级篇\25-文件操作-流\obj\Debug\netcoreapp3.1\25-文件操作-流.GeneratedMSBuildEditorConfig.editorconfig
+E:\VS Workspace\第四季-高级篇\25-文件操作-流\obj\Debug\netcoreapp3.1\25-文件操作-流.AssemblyInfoInputs.cache
+E:\VS Workspace\第四季-高级篇\25-文件操作-流\obj\Debug\netcoreapp3.1\25-文件操作-流.AssemblyInfo.cs
+E:\VS Workspace\第四季-高级篇\25-文件操作-流\obj\Debug\netcoreapp3.1\25-文件操作-流.csproj.CoreCompileInputs.cache
+E:\VS Workspace\第四季-高级篇\25-文件操作-流\obj\Debug\netcoreapp3.1\25-文件操作-流.dll
+E:\VS Workspace\第四季-高级篇\25-文件操作-流\obj\Debug\netcoreapp3.1\25-文件操作-流.pdb
+E:\VS Workspace\第四季-高级篇\25-文件操作-流\obj\Debug\netcoreapp3.1\25-文件操作-流.genruntimeconfig.cache

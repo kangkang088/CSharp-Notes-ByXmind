@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "CaB3aiqSxG2Y8lTKTizQHcDBMKu0C9FfcsSfZIJlWBZCEWNrqPXoo8XM2bV7ucHliHNSf5WDdqTlyqSNIC23Mg==",
+  "success": true,
+  "projectFilePath": "E:\\VS Workspace\\第四季-高级篇\\11-匿名方法\\11-匿名方法和Lambda表达式.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\souke\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512"
+  ],
+  "logs": []
+}

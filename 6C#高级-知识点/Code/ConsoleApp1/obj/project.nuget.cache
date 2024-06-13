@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "YwjWrRGpY05YyApYjhDudME/GJqLFqR+/jdRCMNZ0o7uXEjQLlqOzY3IMG0RadxotmzTmlXB5a6xYt6lL+d5Fw==",
+  "success": true,
+  "projectFilePath": "E:\\VS Workspace\\第四季-高级篇\\ConsoleApp1\\02-命名空间.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\souke\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512"
+  ],
+  "logs": []
+}

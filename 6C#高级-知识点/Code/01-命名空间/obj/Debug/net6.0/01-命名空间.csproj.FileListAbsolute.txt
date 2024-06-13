@@ -1,0 +1,15 @@
+E:\VS Workspace\第四季-高级篇\01-命名空间\bin\Debug\net6.0\01-命名空间.exe
+E:\VS Workspace\第四季-高级篇\01-命名空间\bin\Debug\net6.0\01-命名空间.deps.json
+E:\VS Workspace\第四季-高级篇\01-命名空间\bin\Debug\net6.0\01-命名空间.runtimeconfig.json
+E:\VS Workspace\第四季-高级篇\01-命名空间\bin\Debug\net6.0\01-命名空间.dll
+E:\VS Workspace\第四季-高级篇\01-命名空间\bin\Debug\net6.0\ref\01-命名空间.dll
+E:\VS Workspace\第四季-高级篇\01-命名空间\bin\Debug\net6.0\01-命名空间.pdb
+E:\VS Workspace\第四季-高级篇\01-命名空间\obj\Debug\net6.0\01-命名空间.csproj.AssemblyReference.cache
+E:\VS Workspace\第四季-高级篇\01-命名空间\obj\Debug\net6.0\01-命名空间.GeneratedMSBuildEditorConfig.editorconfig
+E:\VS Workspace\第四季-高级篇\01-命名空间\obj\Debug\net6.0\01-命名空间.AssemblyInfoInputs.cache
+E:\VS Workspace\第四季-高级篇\01-命名空间\obj\Debug\net6.0\01-命名空间.AssemblyInfo.cs
+E:\VS Workspace\第四季-高级篇\01-命名空间\obj\Debug\net6.0\01-命名空间.csproj.CoreCompileInputs.cache
+E:\VS Workspace\第四季-高级篇\01-命名空间\obj\Debug\net6.0\01-命名空间.dll
+E:\VS Workspace\第四季-高级篇\01-命名空间\obj\Debug\net6.0\ref\01-命名空间.dll
+E:\VS Workspace\第四季-高级篇\01-命名空间\obj\Debug\net6.0\01-命名空间.pdb
+E:\VS Workspace\第四季-高级篇\01-命名空间\obj\Debug\net6.0\01-命名空间.genruntimeconfig.cache

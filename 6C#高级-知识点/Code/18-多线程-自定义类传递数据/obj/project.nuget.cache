@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "AvHRRMmOyjh+B+YlDItGhAjPG+1qLgtEU4w66wI4ckLN/9JGmzPvOEWZ87/uYlsZQWN25Ce7YT4DC11CUj0nHQ==",
+  "success": true,
+  "projectFilePath": "E:\\VS Workspace\\第四季-高级篇\\18-多线程-自定义类传递数据\\18-多线程-自定义类传递数据.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\souke\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512"
+  ],
+  "logs": []
+}

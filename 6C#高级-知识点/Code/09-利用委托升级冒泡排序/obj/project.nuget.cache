@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "cFAx/ON2YJpFF1vzxEww+NhkDrl+lYWO52GAx3DxjOZ0iReR5tfIaSjktQrVNaTWcwBmHjkw+at6bXeq21RYxw==",
+  "success": true,
+  "projectFilePath": "E:\\VS Workspace\\第四季-高级篇\\09-利用委托升级冒泡排序\\09-利用委托升级冒泡排序.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\souke\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512"
+  ],
+  "logs": []
+}

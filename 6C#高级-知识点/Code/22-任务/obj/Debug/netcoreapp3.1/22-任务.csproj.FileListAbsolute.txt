@@ -1,0 +1,13 @@
+E:\VS Workspace\第四季-高级篇\22-任务\bin\Debug\netcoreapp3.1\22-任务.exe
+E:\VS Workspace\第四季-高级篇\22-任务\bin\Debug\netcoreapp3.1\22-任务.deps.json
+E:\VS Workspace\第四季-高级篇\22-任务\bin\Debug\netcoreapp3.1\22-任务.runtimeconfig.json
+E:\VS Workspace\第四季-高级篇\22-任务\bin\Debug\netcoreapp3.1\22-任务.runtimeconfig.dev.json
+E:\VS Workspace\第四季-高级篇\22-任务\bin\Debug\netcoreapp3.1\22-任务.dll
+E:\VS Workspace\第四季-高级篇\22-任务\bin\Debug\netcoreapp3.1\22-任务.pdb
+E:\VS Workspace\第四季-高级篇\22-任务\obj\Debug\netcoreapp3.1\22-任务.GeneratedMSBuildEditorConfig.editorconfig
+E:\VS Workspace\第四季-高级篇\22-任务\obj\Debug\netcoreapp3.1\22-任务.AssemblyInfoInputs.cache
+E:\VS Workspace\第四季-高级篇\22-任务\obj\Debug\netcoreapp3.1\22-任务.AssemblyInfo.cs
+E:\VS Workspace\第四季-高级篇\22-任务\obj\Debug\netcoreapp3.1\22-任务.csproj.CoreCompileInputs.cache
+E:\VS Workspace\第四季-高级篇\22-任务\obj\Debug\netcoreapp3.1\22-任务.dll
+E:\VS Workspace\第四季-高级篇\22-任务\obj\Debug\netcoreapp3.1\22-任务.pdb
+E:\VS Workspace\第四季-高级篇\22-任务\obj\Debug\netcoreapp3.1\22-任务.genruntimeconfig.cache

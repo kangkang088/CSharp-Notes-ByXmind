@@ -1,0 +1,14 @@
+E:\VS Workspace\第四季-高级篇\TCP服务器端TcpServer\bin\Debug\netcoreapp3.1\27-TCP服务器端TcpServer.exe
+E:\VS Workspace\第四季-高级篇\TCP服务器端TcpServer\bin\Debug\netcoreapp3.1\27-TCP服务器端TcpServer.deps.json
+E:\VS Workspace\第四季-高级篇\TCP服务器端TcpServer\bin\Debug\netcoreapp3.1\27-TCP服务器端TcpServer.runtimeconfig.json
+E:\VS Workspace\第四季-高级篇\TCP服务器端TcpServer\bin\Debug\netcoreapp3.1\27-TCP服务器端TcpServer.runtimeconfig.dev.json
+E:\VS Workspace\第四季-高级篇\TCP服务器端TcpServer\bin\Debug\netcoreapp3.1\27-TCP服务器端TcpServer.dll
+E:\VS Workspace\第四季-高级篇\TCP服务器端TcpServer\bin\Debug\netcoreapp3.1\27-TCP服务器端TcpServer.pdb
+E:\VS Workspace\第四季-高级篇\TCP服务器端TcpServer\obj\Debug\netcoreapp3.1\27-TCP服务器端TcpServer.csproj.AssemblyReference.cache
+E:\VS Workspace\第四季-高级篇\TCP服务器端TcpServer\obj\Debug\netcoreapp3.1\27-TCP服务器端TcpServer.GeneratedMSBuildEditorConfig.editorconfig
+E:\VS Workspace\第四季-高级篇\TCP服务器端TcpServer\obj\Debug\netcoreapp3.1\27-TCP服务器端TcpServer.AssemblyInfoInputs.cache
+E:\VS Workspace\第四季-高级篇\TCP服务器端TcpServer\obj\Debug\netcoreapp3.1\27-TCP服务器端TcpServer.AssemblyInfo.cs
+E:\VS Workspace\第四季-高级篇\TCP服务器端TcpServer\obj\Debug\netcoreapp3.1\27-TCP服务器端TcpServer.csproj.CoreCompileInputs.cache
+E:\VS Workspace\第四季-高级篇\TCP服务器端TcpServer\obj\Debug\netcoreapp3.1\27-TCP服务器端TcpServer.dll
+E:\VS Workspace\第四季-高级篇\TCP服务器端TcpServer\obj\Debug\netcoreapp3.1\27-TCP服务器端TcpServer.pdb
+E:\VS Workspace\第四季-高级篇\TCP服务器端TcpServer\obj\Debug\netcoreapp3.1\27-TCP服务器端TcpServer.genruntimeconfig.cache

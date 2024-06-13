@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "F9mFsd2wCwYtegFhRDubvAQbxyaF/85U3ruK/oCium7PrFzRQRYIpvbPle/sh5zpAM9p/QO1HRysvbNKLNYPXQ==",
+  "success": true,
+  "projectFilePath": "E:\\VS Workspace\\第四季-高级篇\\14-特性\\14-特性.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\souke\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512"
+  ],
+  "logs": []
+}
